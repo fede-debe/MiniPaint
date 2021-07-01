@@ -4,7 +4,7 @@ This is the toy app for Lesson 5 of the Advanced Android Apps with Kotlin course
 
 ## :framed_picture: MiniPaint App 
 
-MiniPaint is an example about how to use Canvas and let the user draw on it with Kotlin!
+MiniPaint is an example of how to use Canvas and let the user draw on it with Kotlin!
 
 This app demonstrates the following views and techniques:
 
