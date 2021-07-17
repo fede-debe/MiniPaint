@@ -1,6 +1,6 @@
 # :art: Drawing on Canvas Object - MiniPaint
 
-This is the toy app for Lesson 5 of the Advanced Android Apps with Kotlin course on [Udacity](https://www.udacity.com/).
+This is a toy app from Lesson 5 of the Advanced Android Apps with Kotlin course on [Udacity](https://www.udacity.com/).
 
 ## :framed_picture: MiniPaint App 
 
